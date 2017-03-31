@@ -2,7 +2,7 @@
   "name": "coinblesk",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Sebastian Schrepfer <sebastian@schrepfer.io>",
+  "author": "Sebastian Schrepfer",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
